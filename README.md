@@ -1,2 +1,2 @@
 # ssm-junit-test
-springmvc集成单元测试
+spring + springmvc + mybatis 基础框架集成junit单元测试
